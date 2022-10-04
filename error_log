@@ -1,0 +1,5 @@
+[19-Apr-2022 07:38:13 UTC] PHP Deprecated:  Required parameter $type follows optional parameter $amount in /home/dommobileappws/public_html/app/Helpers/Helper.php on line 418
+[02-May-2022 05:46:05 UTC] PHP Deprecated:  Required parameter $type follows optional parameter $amount in /home/dommobileappws/public_html/app/Helpers/Helper.php on line 419
+[03-May-2022 08:37:11 UTC] PHP Deprecated:  Required parameter $type follows optional parameter $amount in /home/dommobileappws/public_html/app/Helpers/Helper.php on line 419
+[03-May-2022 08:38:09 UTC] PHP Deprecated:  Required parameter $type follows optional parameter $amount in /home/dommobileappws/public_html/app/Helpers/Helper.php on line 419
+[05-May-2022 04:26:51 UTC] PHP Deprecated:  Required parameter $type follows optional parameter $amount in /home/dommobileappws/public_html/app/Helpers/Helper.php on line 419
